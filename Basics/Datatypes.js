@@ -4,6 +4,8 @@ let name="priyanshu"//string datatype value should be in double quotes ""
 let age = 21 //number datatype
 let isgranted = true // boolean datatype only yes or no
 let marks; // undefined which means value is not assigned initially
+let username= "ABC12"
+
 
 
 //nan(Not A Number)
@@ -13,3 +15,4 @@ console.log( typeof(name))
 console.log (typeof(age))
 console.log (typeof(isgranted))
 console.log (typeof(marks))
+console.log (typeof(username))
